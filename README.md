@@ -31,3 +31,10 @@ cd Calculate-DOB-Using-NIC
 ```bash
 python nic_dob.py
 ```
+
+### 3. Example Usage
+
+```bash
+Please enter your NIC number: 200045678901
+Your date of birth is: 2000-02-14
+```
